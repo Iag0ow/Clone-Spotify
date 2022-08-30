@@ -1,17 +1,17 @@
 <h1 align="center" >Spotify Clone</h1>
 <br><br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90112622/187333252-e3c0a3c5-4ebb-407f-b689-bd965ebc87ee.png" alt="">
+<img src="https://user-images.githubusercontent.com/90112622/187334815-aa9da4e0-6f9b-463c-a36a-8b2f23da63f7.png" alt="">
 <h2>Header/Nav e seção home</h2>
 <br><br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90112622/187333264-efbe3b94-7d1e-402d-ac1a-713c07b12973.png" alt="">
+<img src="https://user-images.githubusercontent.com/90112622/187334831-c5ddc9ac-7bf3-4fc2-8d24-45b21ffc3a6a.png" alt="">
 <h2>Seção serviços</h2>
 <br><br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90112622/187333271-8e8c2a60-1500-4170-86e0-82bc5cdcf6ea.png" alt="">
+<img src="https://user-images.githubusercontent.com/90112622/187334835-bd0b3d02-15c5-4a1a-86e9-54e61e74fcc9.png" alt="">
 <h2>Seção conteúdo</h2>
 <br><br>
-<img src="https://user-images.githubusercontent.com/90112622/187333247-c33b5850-08bf-40c0-aa52-f1d7ea535c0c.png" alt="">
+<img src="https://user-images.githubusercontent.com/90112622/187334843-a307ae0a-eaf6-4336-b75d-601c92566917.png" alt="">
 <h2>Footer e Redes sociais</h2>
 
