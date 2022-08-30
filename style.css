@@ -1,0 +1,182 @@
+body {
+    background: url(imagens/capa.png),
+        url(imagens/ruido.png),
+        linear-gradient(50deg, #ff4169, #7c26f8);
+    background-attachment: fixed;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header a:hover {
+    color: #9bf0e1 !important;
+
+}
+
+.container-fluid .navbar-toggler {
+    color: rgba(255, 255, 255, .5) !important;
+    border-color: rgba(255, 255, 255, .1) !important;
+}
+
+html,
+#home,
+body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.capa {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 900;
+    letter-spacing: -0.05em;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 100px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%;
+}
+
+@media (max-width:575.98px) {
+    h1 {
+        font-weight: 900;
+        letter-spacing: -0.05em;
+        margin-bottom: 50px;
+        color: white;
+        font-size: 50px;
+    }
+
+    .btn-custom {
+        margin: 10px 15px;
+
+    }
+}
+
+@media (min-width:576px) and (max-width:767.98px) {
+    h1 {
+        font-weight: 900;
+        letter-spacing: -0.05em;
+        margin-bottom: 50px;
+        color: white;
+        font-size: 75px;
+    }
+
+    .btn-custom {
+        margin: 10px 15px;
+
+    }
+}
+
+.btn-custom {
+    color: white;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border: none;
+
+
+}
+
+.btn-roxo {
+    background-color: #7c25f8;
+    border: none;
+}
+
+.btn-roxo:hover {
+    border: none;
+    color: white;
+    background-color: #6207e3;
+}
+
+.btn-branco {
+    border: 2px solid white;
+}
+
+.btn-branco:hover {
+    color: black;
+    background-color: white;
+}
+
+h2 {
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+#servicos h2 {
+    color: #7c25f8;
+}
+
+#servicos h3 {
+    color: #7c25f8;
+}
+
+.shapes-container .row .col-md-5 .row .col-11 h3 {
+    color: rgb(148, 240, 227);
+}
+
+.shapes-container .row .col-md-5 .row .col-11 h2 {
+    color: white;
+}
+
+.shapes-container .row .col-md-5 .row .col-11 p {
+    color: white;
+}
+
+.shapes-container {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.rotacionar {
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+
+}
+
+.sp {
+    margin-left: 67.281px;
+}
+
+footer {
+    background: black;
+    letter-spacing: 0.05em;
+    padding: 50px;
+    position: relative;
+}
+
+footer a {
+    color: white !important;
+    font-size: 0.8em;
+}
+
+footer a:hover {
+    color: #9bf0e1 !important;
+
+}
+
+footer h4 {
+    color: #919496;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+footer ul li {
+    list-style: none;
+    float: right;
+    margin: 0 5px;
+}
