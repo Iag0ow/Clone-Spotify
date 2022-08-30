@@ -2,7 +2,7 @@
 <br><br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90112622/187333252-e3c0a3c5-4ebb-407f-b689-bd965ebc87ee.png" alt="">
-<h2>Header/Nav e Seção home</h2>
+<h2>Header/Nav e seção home</h2>
 <br><br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90112622/187333264-efbe3b94-7d1e-402d-ac1a-713c07b12973.png" alt="">
